@@ -6,6 +6,6 @@ Fairly simple to navigate. Execute all the cells and then use ipywidget slider i
 ## Task3
 
 Execute all the cells.
-  1. To change no of neurons in hidden layers cahneg the values in 3rd last cell
+  1. To change no of neurons in hidden layers change the values in 3rd last cell
   2. To train the neural network run second last cell.
   3. To test the neural network run last cell 
