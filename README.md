@@ -12,3 +12,7 @@ Execute all the cells.
   1. To change no of neurons in hidden layers change the values in 3rd last cell
   2. To train the neural network run second last cell.
   3. To test the neural network run last cell 
+
+
+
+Contact me at shobhit.belwal@iiitg.ac.in in case of any queries
