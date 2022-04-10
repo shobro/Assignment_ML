@@ -1,6 +1,6 @@
 # Assignment_ML
 ## Task 1
-Fairly simple to navigate. Execute all the cells and then use ipywidget slider in the thrid cell to change values of mean, variance, covarianceusing slider.
+Fairly simple to navigate. Execute all the cells and then use ipywidget slider in the thrid cell to change values of mean, variance, covariance using slider.
 
 
 ## Task3
